@@ -1,7 +1,7 @@
 
 # Topmodel R package
 
-Initial dump of the code of the Topmodel R package, available on CRAN:
+Abandoned R package that used to be available on CRAN:
 
 https://cran.r-project.org/package=topmodel
 
